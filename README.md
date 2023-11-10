@@ -2,13 +2,13 @@
 
 ## Обо мне 
 
-Привет! Меня зовут ``{name}``, я начинающий тестировщик. <br>
+Привет! Меня зовут ``Евгения``, я начинающий тестировщик. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
+``Jira``,``qase.io``,`` Postman``, ``Chrome DevTools``, ``PostgreSQL`` <br>
+``Swagger``,``JMeter``,``SoapUI``, ``Charles``, ``HTML``, ``CSS``, ``Git``.
 
 
 
@@ -59,6 +59,4 @@
 
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: evgeniya.lyubimovah@gmail.com
