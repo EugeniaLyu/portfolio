@@ -12,7 +12,7 @@
 
 ## Навыки и технологии
 ``Chrome DevTools`` <br>
-``JMeter``, ``Charles``.
+``Charles``.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EugeniaLyu/portfolio/blob/main/47823040.png" title="qase.io" alt="qase.io" width="40" height="40"/>&nbsp;
@@ -20,9 +20,9 @@
   <img src="https://github.com/EugeniaLyu/portfolio/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EugeniaLyu/portfolio/blob/main/49429147.png" title="Mockoon" alt="Mockoon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/soapui-supported-by-smartbear-logo-vector.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  
-  
+  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/SoapUI.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/jmeter_square.svg" title="JMeter" alt="JMeter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/ikonka-charles-proxy.webp" title="Charles" alt="Charles" width="40" height="40"/>&nbsp/>  
 </div>
 
 
