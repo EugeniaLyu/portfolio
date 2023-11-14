@@ -11,11 +11,12 @@
 <br>
 
 ## Навыки и технологии
-``qase.io``, ``Postman``, ``Chrome DevTools``, ``Swagger`` <br>
+``Chrome DevTools``, ``Swagger`` <br>
 ``Mockoon``, ``SoapUI``, ``JMeter``, ``Charles``.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EugeniaLyu/portfolio/blob/main/icons8-postman-is-the-only-complete-api-development-environment-96.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/47823040.png" title="qase.io" alt="qase.io" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   
 </div>
