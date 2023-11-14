@@ -22,7 +22,7 @@
   <img src="https://github.com/EugeniaLyu/portfolio/blob/main/49429147.png" title="Mockoon" alt="Mockoon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EugeniaLyu/portfolio/blob/main/SoapUI.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EugeniaLyu/portfolio/blob/main/jmeter_square.svg" title="JMeter" alt="JMeter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/ikonka-charles-proxy.webp" title="Charles" alt="Charles" width="40" height="40"/>&nbsp/>  
+  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" alt="Charles" width="40" height="40"/>&nbsp/>  
 </div>
 
 
