@@ -90,8 +90,11 @@
 ## Контактная информация
 - Email: evgeniya.lyubimovah@gmail.com
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-blue?e" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/Email-red?" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 </div><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
+<div id="badges">
+  <a href="https://t.me/JaneLane14">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
