@@ -84,7 +84,9 @@
 взаимодействии через интерфейс.</li>
 </ol>
 
+---
 
+### :fire: My Stats :
 
 ## Контактная информация
 - Email: evgeniya.lyubimovah@gmail.com <br>
