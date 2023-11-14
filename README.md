@@ -7,7 +7,7 @@
 
 ## Обо мне 
 
-👋 Меня зовут Евгения и я начинающий тестировщик из Снкт-Петербурга. <br>
+👋 Меня зовут Евгения и я начинающий тестировщик из Санкт-Петербурга. <br>
 Представляю вашему вниманию учебные проекты, которые я выполняла в процессе прохождения курса.
 <br>
 
@@ -94,5 +94,5 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-</div><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div><img src="https://EugeniaLyu.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <div id="badges">
