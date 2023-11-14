@@ -1,6 +1,6 @@
 # Портфолио: инженер по тестированию
 <div id="header" align="center">
-  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/giphy%20(1).gif" width="100"/>
+  <img src="https://github.com/EugeniaLyu/portfolio/blob/main/giphy%20(1).gif"/>
 </div>
 
 ## Обо мне 
