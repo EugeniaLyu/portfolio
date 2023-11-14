@@ -7,7 +7,7 @@
 <br>
 
 ## Навыки и технологии
-``qase.io``, Postman``, ``Chrome DevTools``, ``Swagger``, <br>
+``qase.io``, ``Postman``, ``Chrome DevTools``, ``Swagger`` <br>
 ``Mockoon``, ``SoapUI``, ``JMeter``, ``Charles``.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
