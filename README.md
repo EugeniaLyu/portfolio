@@ -1,7 +1,7 @@
 # Портфолио: инженер по тестированию
 
 <div align="center">
-    <img src="<" width="480" height="241" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6heBQSjt2IoA8">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ## Обо мне 
