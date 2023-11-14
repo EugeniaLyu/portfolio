@@ -88,7 +88,7 @@
 
 ## Контактная информация
 - Email: evgeniya.lyubimovah@gmail.com <br>
-  <a href="https://t.me/JaneLane14">
+- <a href="https://t.me/JaneLane14">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
