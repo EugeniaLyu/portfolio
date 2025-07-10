@@ -1,9 +1,6 @@
-![Это опциональный alt-текст](giphy (1).gif)
-
 ## Lyubimova Eugenia
 
-## Contact information
-
+## Contacts for communication:
 - +7 (921) 366-68-14
 
 ```javascript
